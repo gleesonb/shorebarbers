@@ -1,0 +1,2 @@
+# shorebarbers
+static site
